@@ -1,4 +1,4 @@
-### Seja bem vindo ao meu repositório! 👋
+### Olá seja bem vindo ao meu repositório! 👋
 
 
 - 📫 Sou o Psyka, e aqui vai um pouco do que sei e pretendo aprender.
