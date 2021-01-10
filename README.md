@@ -8,3 +8,9 @@
 - 👯 My environments: VsCode, Linux, Discord
 
 ![Status](https://github.com/Psykkka/Psykkka/blob/main/status.svg)
+
+_____
+
+![Mine](https://github.com/Psykkka/Psykkka/blob/main/mine.gif)
+
+哪里有钱，哪里总有谎言。
