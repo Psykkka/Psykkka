@@ -1,7 +1,7 @@
-### Olá seja bem vindo ao meu repositório! 👋
+### Hello welcome to my repository! 👋
 
 
-- 📫 Sou o Psyka, e aqui vai um pouco do que sei e pretendo aprender.
+- 📫 I'm Psyka, and here's a little of what I know and I intend to learn.
 
 - 🔭 I’m currently working on: JavaScript, Java, Python, Lua, C+ +, C,  Ruby, Mysql.
 - 🌱 I’m currently learning: Golang, Assembly
