@@ -3,7 +3,7 @@
 
 - 📫 I'm Psyka, and here's a little of what I know and I intend to learn.
 
-- 🔭 I’m currently working on: JavaScript, Java, Python, Lua, C+ +, C,  Ruby, Mysql.
+- 🔭 I’m currently working on: ![js](https://github.com/Psykkka/Psykkka/blob/main/javascript.svg) ![j](https://github.com/Psykkka/Psykkka/blob/main/java.svg) ![py](https://github.com/Psykkka/Psykkka/blob/main/python.svg) ![l](https://github.com/Psykkka/Psykkka/blob/main/lua.svg) ![cp](https://github.com/Psykkka/Psykkka/blob/main/c%2B%2B.svg) ![c](https://github.com/Psykkka/Psykkka/blob/main/c.svg) ![ru](https://github.com/Psykkka/Psykkka/blob/main/ruby.svg) ![my](https://github.com/Psykkka/Psykkka/blob/main/mysql.svg) ![ty](https://github.com/Psykkka/Psykkka/blob/main/typescript.svg)
 - 🌱 I’m currently learning: Golang, Assembly
 - 👯 My environments: ![vs](https://github.com/Psykkka/Psykkka/blob/main/vscode.svg) ![li](https://github.com/Psykkka/Psykkka/blob/main/linux.svg) ![dc](https://github.com/Psykkka/Psykkka/blob/main/discord.svg)
 
