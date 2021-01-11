@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on: JavaScript, Java, Python, Lua, C+ +, C,  Ruby, Mysql.
 - 🌱 I’m currently learning: Golang, Assembly
-- 👯 My environments: VsCode, Linux, Discord
+- 👯 My environments: ![vs](https://github.com/Psykkka/Psykkka/blob/main/vscode.svg) ![li](https://github.com/Psykkka/Psykkka/blob/main/linux.svg) ![dc](https://github.com/Psykkka/Psykkka/blob/main/discord.svg)
 
 ![Status](https://github.com/Psykkka/Psykkka/blob/main/status.svg)
 
